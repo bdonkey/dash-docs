@@ -19,3 +19,7 @@ bundle.js
 .env
 
 ignore/indicators.csv
+
+# ss
+
+.idea/
